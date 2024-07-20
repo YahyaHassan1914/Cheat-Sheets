@@ -29,6 +29,9 @@ Welcome to the Cheat Sheets Repository! This repository contains a collection of
 - **[PySide Cheat Sheet](PySide_cheat_sheet.md)**
   - Guide to PySide (Qt for Python), covering widgets, layouts, signals and slots, and custom widgets.
 
+- **[Git & Github Cheat Sheet](git&github_cheat_sheet.md)**
+  - Detailed guide to using Git for version control and GitHub for repository hosting and collaboration, covering basic commands, branching, merging, advanced features, and best practices.
+
 ## How to Use
 
 Each cheat sheet is organized into sections from basic to advanced concepts. Click on the links above to access the respective cheat sheets.
